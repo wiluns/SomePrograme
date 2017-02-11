@@ -4,4 +4,10 @@ public class SomeProgram {
 		System.out.println("We are learning to use Git hohoho!!.");
 		System.out.println("We are learning to use Git.");
     }
+	
+public void createRocket() {
+    // TODO implement
 }
+}
+
+
